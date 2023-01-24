@@ -1,5 +1,5 @@
 # Playground-Series
-Tabular Classification with an Employee Attrition Dataset
+Tabular Classification with an Employee Attrition Dataset (https://www.kaggle.com/competitions/playground-series-s3e3/overview)
 ## Result
 My private Score = 0.8702
 
